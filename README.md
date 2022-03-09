@@ -3,7 +3,7 @@
 ### DevStack Solution
 
 ### Domain: Data science intern
-## Task 2: Color_Detection_System
+## Task 1: Make a Fake news detecting system based on a data set with the help of machine learning.
 ### Language Used : Python
 ### Code Editor: Jupyter Notebook
 
